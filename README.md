@@ -1,2 +1,3 @@
 # blockchain
-an intro to blockchain as a side fun project
+
+- An intro to blockchain as a fun side-project
